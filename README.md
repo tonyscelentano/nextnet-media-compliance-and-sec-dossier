@@ -1,5 +1,7 @@
 While working as an Engineer & Data Coordinator at NextNet Media, I discovered over 100 plaintext API keys for payment gateways, cloud infrastructure, and SaaS platforms that could leak sensitive data of both clients and employees. A complete and utter failure of SOC2, GDPR, CCPA, and SOX security controls. The full list includes: Tipalti, Stripe, PayPal, AWS, ECS, MongoDB, Xero, SendGrid, ZenRows, and more.
 
+<img width="845" height="269" alt="{216A316B-759F-4BC5-BEEC-46309F688FA5}" src="https://github.com/user-attachments/assets/62f5e400-04eb-402b-85c2-74344f53e659" />
+
 Even basic GitHub security scanning was disabled. Because the company employs both domestic and offshore developers, and utilizes Tipalti as an internal payroll mechanism, I feared for the financial well-being of coworkers who could become victims of private data theft.
 
 I compiled a report of the security violations and sent it to the proper internal channel. In good faith, I offered to be part of the cleanup crew - within 48 hours, I was terminated without notice or cause. I also immediately lost access to my work emails and Tipalti portal, leaving me unable to download my payout records or 1099 forms.
