@@ -19,6 +19,8 @@ I filed **SEC, FinCEN, and OSHA** whistleblower reports, and sent a physical let
 
 This settlement offer, being a clear violation of **SEC Rule 21F-17(a)**, was added to my whistleblower reports. The SEC wrote this rule exactly because of the chilling effect that gag clauses have on whistleblowers.
 
+<img width="941" height="478" alt="SEC TCR ticket update to include SEC Rule 21F-17(a) violation" src="https://github.com/user-attachments/assets/702948c1-f3ab-4fb8-9443-aa2d1fb3f8d2" />
+
 I also provided the financial lending and private equity partners of NextNet with constructive knowledge, as I believed that NextNet would not remediate their security issues unless forced. I received radio silence from those channels as well.
 
 Since then, other contractors have come forward to me, highlighting their willingness to give testimony. I've received additional documents and data - such as U.S. contractors receiving zeroed-out 1099-NEC tax forms, despite receiving tens of thousands of dollars in documented, processed payments - a discrepancy pointing directly to **federal tax reporting failures**.
