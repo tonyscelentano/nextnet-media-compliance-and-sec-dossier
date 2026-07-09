@@ -25,6 +25,8 @@ I also provided the financial lending and private equity partners of NextNet wit
 
 Since then, other contractors have come forward to me, highlighting their willingness to give testimony. I've received additional documents and data - such as U.S. contractors receiving zeroed-out 1099-NEC tax forms, despite receiving tens of thousands of dollars in documented, processed payments - a discrepancy pointing directly to **federal tax reporting failures**.
 
+Because the contractors are not C-Corp or S-Corp entities, and they performed real work with real pay - there is absolutely zero reason to send them "corrected" $0 1099-NEC forms.
+
 <img width="1926" height="2711" alt="Corrected zeroed-out IRS Form 1099-NEC issued by NextNet Media demonstrating tax reporting discrepancies and spoliation" src="https://github.com/user-attachments/assets/4fa625f5-970b-4bd9-8779-9d477fbdc63b" />
 
 Why am I going public with this information? Because NextNet recapitalized in 2021, and are looking for an **EBITDA exit** within the year. They would be passing the compliance bag to the next buyer.
