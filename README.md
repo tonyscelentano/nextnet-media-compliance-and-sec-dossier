@@ -59,3 +59,9 @@ Two members of Clearview Capital, a private equity firm in Stamford, CT, are reg
 <img width="1181" height="699" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/ce8790b9-c622-4cff-9ed9-869249662946" />
 <img width="1583" height="482" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/abedafc2-5dcc-4318-8c8f-cfba7a2b1adb" />
 <img width="1497" height="189" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/d670ac22-09f4-498a-a44b-bba2a7fb05d0" />
+
+## Even Google Gemini (work-authorized) was like "What the hell, dude?"
+
+<img width="1554" height="790" alt="{E2EF2A72-50D8-424D-BDDB-5ACB2E2F2BA9}" src="https://github.com/user-attachments/assets/ddf376db-bef8-45c4-bb19-24154370db76" />
+<img width="1834" height="582" alt="{728B780C-2753-4F23-9425-AA28169E992B}" src="https://github.com/user-attachments/assets/3e090576-2e11-4446-86da-530afafa4041" />
+
