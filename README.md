@@ -60,7 +60,7 @@ Two members of Clearview Capital, a private equity firm in Stamford, CT, are reg
 <img width="1583" height="482" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/abedafc2-5dcc-4318-8c8f-cfba7a2b1adb" />
 <img width="1497" height="189" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/d670ac22-09f4-498a-a44b-bba2a7fb05d0" />
 
-## Document Exhibit: Even Google Gemini (work-authorized) was like "What the hell, dude?"
+## Document Exhibit: Even work-authorized AI parsed my screen and threw up SOC2 red flags.
 Because I had full, unrestricted access to all Git repos - another control failure - across every NextNet Media brand, every commit was in plain sight. No hacking or unauthorized access - the front page of GitHub just shows you the most recent commits.
 
 Some of the commits were from older legacy repos, while others were committed only days prior. Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. The AI tool only parsed what was already visible on my screen - in the eyes of compliance frameworks, the foundational security failure is the act of hardcoding the secret in plaintext:
