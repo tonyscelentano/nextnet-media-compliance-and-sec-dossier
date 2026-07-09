@@ -1,5 +1,7 @@
 # NextNet Media Security & Compliance Disclosure: SEC Rule 21F-17(a) Violations & SOC2 Failures
 
+Mirrored on: [GitLab](https://gitlab.com/tony.s.celentano/nextnet-media-compliance-dossier) | [Codeberg](https://codeberg.org/TonyCelentano_ComplianceOps/NextNet-Media-Compliance-Dossier)
+
 While working as an Engineer & Data Coordinator at **NextNet Media**, I discovered over 100 plaintext API keys for payment gateways, cloud infrastructure, and SaaS platforms that could leak sensitive data of both clients and employees. This represents a complete and utter failure of **SOC2, GDPR, CCPA, and SOX** security controls. The full list includes: Tipalti, Stripe, PayPal, AWS, ECS, MongoDB, Xero, SendGrid, ZenRows, and more.
 
 <img width="845" height="269" alt="Plaintext API key exposure in NextNet Media production environment including Tipalti, Stripe, and AWS" src="https://github.com/user-attachments/assets/62f5e400-04eb-402b-85c2-74344f53e659" />
