@@ -61,6 +61,7 @@ Two members of Clearview Capital, a private equity firm in Stamford, CT, are reg
 <img width="1497" height="189" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/d670ac22-09f4-498a-a44b-bba2a7fb05d0" />
 
 ## Even Google Gemini (work-authorized) was like "What the hell, dude?"
+Because I had full, unrestricted access to all Git repos - another control failure - across every NextNet Media brand, every commit was in plain sight. Some of the commits were from older legacy repos, while others were committed only days prior. Not believing my own eyes, I decided to open Google Gemini, authorized by workplace policy, and ask it if it was seeing the same things I was seeing. Gemini confirmed that the entire GitHub repo across all brands was, in fact, a dumpster fire. I asked Gemini how many SOC2 violations it could count, and this was the response:
 
 <img width="1554" height="790" alt="{E2EF2A72-50D8-424D-BDDB-5ACB2E2F2BA9}" src="https://github.com/user-attachments/assets/ddf376db-bef8-45c4-bb19-24154370db76" />
 <img width="1834" height="582" alt="{728B780C-2753-4F23-9425-AA28169E992B}" src="https://github.com/user-attachments/assets/3e090576-2e11-4446-86da-530afafa4041" />
