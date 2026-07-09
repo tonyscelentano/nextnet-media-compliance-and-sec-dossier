@@ -63,7 +63,7 @@ Two members of Clearview Capital, a private equity firm in Stamford, CT, are reg
 ## Document Exhibit: Even Google Gemini (work-authorized) was like "What the hell, dude?"
 Because I had full, unrestricted access to all Git repos - another control failure - across every NextNet Media brand, every commit was in plain sight. No hacking or unauthorized access - the front page of GitHub just shows you the most recent commits.
 
-Some of the commits were from older legacy repos, while others were committed only days prior. Not believing my own eyes, I decided to open Google Gemini, authorized by workplace policy, and ask if it was seeing the same things I was seeing. Gemini confirmed that the entire GitHub repo across all brands was, in fact, a dumpster fire. I asked Gemini how many SOC2 violations it could count, and this was the response:
+Some of the commits were from older legacy repos, while others were committed only days prior. Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. The AI tool only parsed what was already visible on my screen - in the eyes of compliance frameworks, the foundational security failure is the act of hardcoding the secret in plaintext:
 
 <img width="1554" height="790" alt="{E2EF2A72-50D8-424D-BDDB-5ACB2E2F2BA9}" src="https://github.com/user-attachments/assets/ddf376db-bef8-45c4-bb19-24154370db76" />
 <img width="1834" height="582" alt="{728B780C-2753-4F23-9425-AA28169E992B}" src="https://github.com/user-attachments/assets/3e090576-2e11-4446-86da-530afafa4041" />
