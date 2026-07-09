@@ -44,5 +44,12 @@ NextNet Media owns and operates the following brands in its portfolio:
 
 <br>
 
-**Document Exhibit:** State of Florida Division of Corporations (Sunbiz) official registry for NextNet Media, LLC, renewed in 2026.
+## Document Exhibit: State of Florida Division of Corporations (Sunbiz) official registry for NextNet Media, LLC, renewed in 2026.
 <img width="920" height="745" alt="State of Florida Sunbiz corporate registration and executive map for NextNet Media LLC" src="https://github.com/user-attachments/assets/2ffaa225-6de0-4d48-82e6-4295c9d1b4c8" />
+
+## Document Exhibit: Redacted API keys for fintech and cloud infrastructure platforms hardcoded into Git repos.
+<img width="1145" height="702" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/8ade5063-62fd-4f75-b665-b1889909c73f" />
+<img width="1264" height="261" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/35c39c3e-7601-4022-b123-4fc32778ee84" />
+<img width="1181" height="699" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/ce8790b9-c622-4cff-9ed9-869249662946" />
+<img width="1583" height="482" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/abedafc2-5dcc-4318-8c8f-cfba7a2b1adb" />
+<img width="1497" height="189" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/d670ac22-09f4-498a-a44b-bba2a7fb05d0" />
