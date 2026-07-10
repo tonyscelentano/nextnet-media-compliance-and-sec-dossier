@@ -91,3 +91,6 @@ A: 21F-17(a) analysis has repeatedly held that gag/confidentiality provisions do
 
 #### Q: Why should Clearview Capital or Abacus Finance care about a contractor dispute at one portfolio company?
 A: Because both received direct, documented notice with attached evidence, and continued inaction after actual knowledge is its own legal exposure. This isn't a portfolio company's internal HR matter anymore; it's a question of what the fund and lender knew, and when.
+
+#### Q: At any point did you threaten or extort NextNet Media with your information for financial gain?
+A: No. My settlement demands was strictly scoped to recovery of lost wages based on documented KPI trajectories, and a small premium in exchange for proprietary technical knowledge from my own repositories. My whistleblower filings with the SEC, FinCEN, Florida Attorney General, and other regulatory bodies were already in motion. When I received the settlement offer that violates SEC Rule 21F-17(a), I enhanced the premium in my settlement ask, simply for the bad-faith posturing that NextNet Media engaged in. As I said in my emails to company executives, the federal filings are a non-negotiable.
