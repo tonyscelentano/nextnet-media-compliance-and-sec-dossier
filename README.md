@@ -51,7 +51,14 @@ NextNet Media owns and operates the following brands in its portfolio:
 ## Document Exhibit: State of Florida Division of Corporations (Sunbiz) official registry for NextNet Media, LLC, renewed in 2026.
 <img width="920" height="745" alt="State of Florida Sunbiz corporate registration and executive map for NextNet Media LLC" src="https://github.com/user-attachments/assets/2ffaa225-6de0-4d48-82e6-4295c9d1b4c8" />
 
-Two members of Clearview Capital, a private equity firm in Stamford, CT, are registered as MANA partners on the NextNet LLC. This extends liability for NextNet's technical negligence and questionable tax filing practices to the fund itself - a fund [valued at $550m USD](https://pitchbook.com/profiles/fund/16376-50F).
+Two members of Clearview Capital, a private equity firm in Stamford, CT, are registered as MANA partners on the NextNet LLC.
+
+This potentially extends liability for NextNet's technical negligence and questionable tax filing practices to the fund itself - a fund [valued at $550m USD](https://pitchbook.com/profiles/fund/16376-50F). Abacus Finance Group [served as Senior Secured Credit Facilities Administrative Agent]([url](https://abacusfinance.com/news/abacus-finance-provides-senior-debt-financing-to-support-the-recapitalization-of-next-net-media-llc-a-clearview-capital-portfolio-company/)) and Lead Arranger for the recap and made an equity co-investment in the same transaction.
+
+<img width="983" height="573" alt="{C3F2AB5B-7898-4EF9-A100-69FEF18C2CBD}" src="https://github.com/user-attachments/assets/25b72198-7b2c-418b-adc5-489abaa5fa50" />
+
+Representatives from both entities (Abacus Finance Group, Clearview Capital) were provided with constructive knowledge and documentation, including the settlement offer that violates SEC Rule 21F-17(a). If NextNet or its sponsors delete or fail to preserve anything after receiving those emails, that's an independent basis for an adverse inference instruction at trial or sanctions.
+
 
 ## Document Exhibit: Redacted API keys for fintech and cloud infrastructure platforms hardcoded into Git repos.
 <img width="1145" height="702" alt="{Plaintext API keys in GitHub, NextNet Media}" src="https://github.com/user-attachments/assets/8ade5063-62fd-4f75-b665-b1889909c73f" />
