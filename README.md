@@ -53,7 +53,7 @@ NextNet Media owns and operates the following brands in its portfolio:
 
 Two members of Clearview Capital, a private equity firm in Stamford, CT, are registered as MANA partners on the NextNet LLC.
 
-This potentially extends liability for NextNet's technical negligence and questionable tax filing practices to the fund itself - a fund [valued at $550m USD](https://pitchbook.com/profiles/fund/16376-50F). Abacus Finance Group [served as Senior Secured Credit Facilities Administrative Agent]([url](https://abacusfinance.com/news/abacus-finance-provides-senior-debt-financing-to-support-the-recapitalization-of-next-net-media-llc-a-clearview-capital-portfolio-company/)) and Lead Arranger for the recap and made an equity co-investment in the same transaction.
+This potentially extends liability for NextNet's technical negligence and questionable tax filing practices to the fund itself — a fund [valued at $550M](https://pitchbook.com/profiles/fund/16376-50F). Abacus Finance Group [served as Senior Secured Credit Facilities Administrative Agent and Lead Arranger](https://abacusfinance.com/news/abacus-finance-provides-senior-debt-financing-to-support-the-recapitalization-of-next-net-media-llc-a-clearview-capital-portfolio-company/) for the recapitalization and made an equity co-investment in the same transaction.
 
 <img width="983" height="573" alt="{C3F2AB5B-7898-4EF9-A100-69FEF18C2CBD}" src="https://github.com/user-attachments/assets/25b72198-7b2c-418b-adc5-489abaa5fa50" />
 
