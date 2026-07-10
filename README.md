@@ -78,16 +78,16 @@ Some of the commits were from older legacy repos, while others were committed on
 ## Frequently Asked Questions (FAQ)
 
 #### Q: Is SOC2 a relevant compliance metric for NextNet Media?
-#### A: NextNet Media is a B2B marketing entity that processes large transactions volumes, including from blue-chip clients, via fintech gateways - the answer is a resounding **yes**. That's like looking at a hospital and asking if HIPAA is relevant.
+A: NextNet Media is a B2B marketing entity that processes large transactions volumes, including from blue-chip clients, via fintech gateways - the answer is a resounding **yes**. That's like looking at a hospital and asking if HIPAA is relevant.
 
 #### Q: Aren't you disclosing those API keys to Google / Gemini by doing this?
-#### A: Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. Google Gemini parsed the DOMs of what was already on my screen. Imagine you're wearing an authorized body-cam and someone runs butt-naked past the viewfinder. You don't blame the person wearing the body-cam, you ask why corporate security let a butt-naked person into the building.
+A: Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. Google Gemini parsed the DOMs of what was already on my screen. Imagine you're wearing an authorized body-cam and someone runs butt-naked past the viewfinder. You don't blame the person wearing the body-cam, you ask why corporate security let a butt-naked person into the building.
 
 #### Q: Isn't this defamation? You're naming real people and companies.
-#### A: Truth is an absolute defense to defamation in essentially every U.S. jurisdiction. You cannot defame someone with a screenshot of their own settlement offer. Every substantive claim in this dossier is backed by a document, a press release, or a public filing.
+A: Truth is an absolute defense to defamation in essentially every U.S. jurisdiction. You cannot defame someone with a screenshot of their own settlement offer. Every substantive claim in this dossier is backed by a document, a press release, or a public filing.
 
 #### Q: Did you sign an NDA? Aren't you violating it by posting this?
-#### A: 21F-17(a) analysis has repeatedly held that gag/confidentiality provisions don't survive scrutiny when they function to suppress regulatory disclosure.
+A: 21F-17(a) analysis has repeatedly held that gag/confidentiality provisions don't survive scrutiny when they function to suppress regulatory disclosure.
 
 #### Q: Why should Clearview Capital or Abacus Finance care about a contractor dispute at one portfolio company?
-#### A: Because both received direct, documented notice with attached evidence, and continued inaction after actual knowledge is its own legal exposure. This isn't a portfolio company's internal HR matter anymore; it's a question of what the fund and lender knew, and when.
+A: Because both received direct, documented notice with attached evidence, and continued inaction after actual knowledge is its own legal exposure. This isn't a portfolio company's internal HR matter anymore; it's a question of what the fund and lender knew, and when.
