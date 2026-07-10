@@ -46,7 +46,22 @@ NextNet Media owns and operates the following brands in its portfolio:
 * CopyMatic.ai
 * SEOJet
 
-<br>
+## NextNet's Blue-Chip Clients
+
+The prior agency I worked for, LinkBuilder.io, had a large roster of blue-chip (publicly traded) companies including:
+
+* Shopify Inc. (NASDAQ: SHOP)
+* Sofi Technologies (NASDAQ: SOFI)
+* Wayfair Inc. (NYSE: W)
+* SolarWinds (NYSE: SWI)
+* HelloFresh SE (ETR: HFG)
+* EverCommerce Inc. (NASDAQ: EVCM)
+* Sonic Automotive Inc. (NYSE: SAH)
+* News Corp (NASDAQ: NWSA)
+
+At the moment of acquisition, NextNet Media inherited those client relationships. Why does this matter? NextNet Media does not just deal in PBN link exchanges - they explicitly engineer high-value digital acquisition pipelines. For clients like SoFi, NextNet engaged in highly regulated "Your Money or Your Life" (YMYL) financial marketing, generating millions in lead-acquisition value.
+
+When NextNet inherited these blue-chip clients, they also put publicly traded companies at severe risk for data exposure. NextNet didn't just fail to secure their own internal API keys; they left the digital acquisition history of NASDAQ-listed companies exposed to the open internet via privaty equity roll-up and unmitigated technical debt.
 
 ## Document Exhibit: State of Florida Division of Corporations (Sunbiz) official registry for NextNet Media, LLC, renewed in 2026.
 <img width="920" height="745" alt="State of Florida Sunbiz corporate registration and executive map for NextNet Media LLC" src="https://github.com/user-attachments/assets/2ffaa225-6de0-4d48-82e6-4295c9d1b4c8" />
