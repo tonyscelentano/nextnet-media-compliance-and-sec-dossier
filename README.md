@@ -55,7 +55,7 @@ Two members of Clearview Capital, a private equity firm in Stamford, CT, are reg
 
 This potentially extends liability for NextNet's technical negligence and questionable tax filing practices to the fund itself — a fund [valued at $550M](https://pitchbook.com/profiles/fund/16376-50F). Abacus Finance Group [served as Senior Secured Credit Facilities Administrative Agent and Lead Arranger](https://abacusfinance.com/news/abacus-finance-provides-senior-debt-financing-to-support-the-recapitalization-of-next-net-media-llc-a-clearview-capital-portfolio-company/) for the recapitalization and made an equity co-investment in the same transaction.
 
-<img width="983" height="573" alt="{C3F2AB5B-7898-4EF9-A100-69FEF18C2CBD}" src="https://github.com/user-attachments/assets/25b72198-7b2c-418b-adc5-489abaa5fa50" />
+<img width="983" height="573" alt="Abacus Finance Group press release on NextNet Media funding." src="https://github.com/user-attachments/assets/25b72198-7b2c-418b-adc5-489abaa5fa50" />
 
 Representatives from both entities (Abacus Finance Group, Clearview Capital) were provided with constructive knowledge and documentation, including the settlement offer that violates SEC Rule 21F-17(a). If NextNet or its sponsors delete or fail to preserve anything after receiving those emails, that's an independent basis for an adverse inference instruction at trial or sanctions.
 
@@ -72,6 +72,6 @@ Because I had full, unrestricted access to all Git repos - another control failu
 
 Some of the commits were from older legacy repos, while others were committed only days prior. Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. The AI tool only parsed what was already visible on my screen - in the eyes of compliance frameworks, the foundational security failure is the act of hardcoding the secret in plaintext:
 
-<img width="1554" height="790" alt="{E2EF2A72-50D8-424D-BDDB-5ACB2E2F2BA9}" src="https://github.com/user-attachments/assets/ddf376db-bef8-45c4-bb19-24154370db76" />
-<img width="1834" height="582" alt="{728B780C-2753-4F23-9425-AA28169E992B}" src="https://github.com/user-attachments/assets/3e090576-2e11-4446-86da-530afafa4041" />
+<img width="1554" height="790" alt="{NextNet Media SOC2 compliance violations.}" src="https://github.com/user-attachments/assets/ddf376db-bef8-45c4-bb19-24154370db76" />
+<img width="1834" height="582" alt="{NextNet Media SOC2 compliance violations}" src="https://github.com/user-attachments/assets/3e090576-2e11-4446-86da-530afafa4041" />
 
