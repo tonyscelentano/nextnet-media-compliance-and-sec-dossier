@@ -59,7 +59,7 @@ The prior agency I worked for, LinkBuilder.io, had a large roster of blue-chip (
 * Sonic Automotive Inc. (NYSE: SAH)
 * News Corp (NASDAQ: NWSA)
 
-At the moment of acquisition, NextNet Media inherited those client relationships. Why does this matter? NextNet Media does not just deal in PBN link exchanges - they explicitly engineer high-value digital acquisition pipelines. For clients like SoFi, NextNet engaged in highly regulated "Your Money or Your Life" (YMYL) financial marketing, generating millions in lead-acquisition value.
+At the moment of acquisition, NextNet Media inherited those client relationships. Why does this matter? LinkBuilder.io did not just deal in PBN link exchanges - they explicitly engineer high-value digital acquisition pipelines, as outlined in this [case study](https://linkbuilder.io/case-studies/fintech-service/), which specifically involved SoFi Technologies. For clients like SoFi, LinkBuilder.io engaged in highly regulated "Your Money or Your Life" (YMYL) financial marketing, generating millions in lead-acquisition value.
 
 When NextNet inherited these blue-chip clients, they also put publicly traded companies at severe risk for data exposure. NextNet didn't just fail to secure their own internal API keys; they left the digital acquisition history of NASDAQ-listed companies exposed to the open internet via privaty equity roll-up and unmitigated technical debt. This may expose NextNet Media to liabilities under under the Supreme Court precedent set by Lawson v. FMR LLC.
 
