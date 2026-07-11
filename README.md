@@ -19,7 +19,9 @@ I filed **SEC, FinCEN, and OSHA** whistleblower reports, and sent a physical let
 
 <img width="1175" height="927" alt="NextNet Media settlement offer violating SEC Rule 21F-17(a) whistleblower protections with illegal gag clause" src="https://github.com/user-attachments/assets/f9bd7348-db50-4e0b-b2cb-9a306d0cf2fa" />
 
-This settlement offer, being a clear violation of **SEC Rule 21F-17(a)**, was added to my whistleblower reports. The SEC wrote this rule exactly because of the chilling effect that gag clauses have on whistleblowers.
+
+This settlement offer, being a clear violation of [**SEC Rule 21F-17(a)**](https://www.sec.gov/enforcement-litigation/whistleblower-program/whistleblower-protections), was added to my whistleblower reports. The SEC wrote this rule exactly because of the chilling effect that gag clauses have on whistleblowers.
+
 
 <img width="941" height="478" alt="SEC TCR ticket update to include SEC Rule 21F-17(a) violation" src="https://github.com/user-attachments/assets/702948c1-f3ab-4fb8-9443-aa2d1fb3f8d2" />
 
