@@ -15,11 +15,7 @@ I compiled a report of the security violations and sent it to the proper interna
 
 I was told I'd receive a week's pay - when I pointed out my contract had a 30-day termination notice clause, I was informed that my termination was covered by a contract clause which cites a material breach of contract. I asked to know which contract clause I had breached, and received no response.
 
-NextNet Media may believe that because they operate in Florida, an at-will employment state, they may simply fire contracted engineers for any reason. Unfortunately for them, this leaves two scenarios: <br>
-**1)** Either I was a 1099 contractor and they breached my contract with illusory clauses, or; <br>
-**2)** I was a misclassified W-2 employee. <br>
-
-When I provided NextNet's legal counsel, **Koley Jessen**, with constructive knowledge - I was Mimecast blocked.
+When I provided NextNet's legal counsel, **Koley Jessen**, with constructive knowledge - I was Mimecast blocked. Apparently, general counsel does not like being informed of their client's regulatory compliance violations.
 
 I filed **SEC, FinCEN, and OSHA** whistleblower reports, and sent a physical letter to NextNet LLC's address. In return, I received a settlement offer - $3,214 if I dismissed my whistleblower complaints with those federal bodies, released only upon "written receipt of closure and dismissal of any and all Complaints".
 
