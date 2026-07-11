@@ -13,7 +13,15 @@ I compiled a report of the security violations and sent it to the proper interna
 <img width="1345" height="610" alt="Evidence of retaliatory access revocation to NextNet Media work email and Tipalti payroll portal" src="https://github.com/user-attachments/assets/b06f84fe-4b1c-4810-bffa-5704f423f93e" />
 <img width="1773" height="599" alt="Account lockout notice for NextNet Media contractor following internal security vulnerability report" src="https://github.com/user-attachments/assets/f6d5396b-0801-408f-8690-2c7e5f5c4f65" />
 
-I was told I'd receive a week's pay - when I pointed out my contract had a 30-day termination notice clause, I received radio silence. When I provided NextNet's legal counsel, **Koley Jessen**, with constructive knowledge - I was Mimecast blocked.
+I was told I'd receive a week's pay - when I pointed out my contract had a 30-day termination notice clause, I was informed that my termination was covered by a contract clause which cites a material breach of contract. I asked to know which contract clause I had breached, and received no response.
+
+NextNet Media may believe that because they operate in Florida, an at-will employment state, they may simply fire contracted engineers for any reason. Unfortunately for them, this leaves two scenarios:
+**1)** Either I was a 1099 contractor and they breached my contract with illusory clauses, or;
+**2)** I was a misclassified W-2 employee.
+
+In any case, if they breached my contract, then I retain all IP developed while working for NextNet Media. If I was a misclassified W-2 employee, than NextNet Media owes back payroll taxes, employer FICA contributions, potential overtime compensation, and is subject to IRS and Department of Labor penalties for systemic worker misclassification.
+
+When I provided NextNet's legal counsel, **Koley Jessen**, with constructive knowledge - I was Mimecast blocked.
 
 I filed **SEC, FinCEN, and OSHA** whistleblower reports, and sent a physical letter to NextNet LLC's address. In return, I received a settlement offer - $3,214 if I dismissed my whistleblower complaints with those federal bodies, released only upon "written receipt of closure and dismissal of any and all Complaints".
 
