@@ -21,7 +21,7 @@ NextNet Media may believe that because they operate in Florida, an at-will emplo
 
 I say this to the benefit of anyone who may have experienced a similar situation.
 
-In any case, if they breached my contract, then I retain all IP developed while working for NextNet Media. If I was a misclassified W-2 employee, than NextNet Media owes back payroll taxes, employer FICA contributions, potential overtime compensation, and is subject to IRS and Department of Labor penalties for systemic worker misclassification.
+In any case, if they breached my contract, than I retain all personal IP developed while working for NextNet Media. If I was a misclassified W-2 employee, than NextNet Media owes back payroll taxes, employer FICA contributions, potential overtime compensation, and is subject to IRS and Department of Labor penalties for systemic worker misclassification.
 
 When I provided NextNet's legal counsel, **Koley Jessen**, with constructive knowledge - I was Mimecast blocked.
 
