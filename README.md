@@ -15,9 +15,11 @@ I compiled a report of the security violations and sent it to the proper interna
 
 I was told I'd receive a week's pay - when I pointed out my contract had a 30-day termination notice clause, I was informed that my termination was covered by a contract clause which cites a material breach of contract. I asked to know which contract clause I had breached, and received no response.
 
-NextNet Media may believe that because they operate in Florida, an at-will employment state, they may simply fire contracted engineers for any reason. Unfortunately for them, this leaves two scenarios:
-**1)** Either I was a 1099 contractor and they breached my contract with illusory clauses, or;
-**2)** I was a misclassified W-2 employee.
+NextNet Media may believe that because they operate in Florida, an at-will employment state, they may simply fire contracted engineers for any reason. Unfortunately for them, this leaves two scenarios: <br>
+**1)** Either I was a 1099 contractor and they breached my contract with illusory clauses, or; <br>
+**2)** I was a misclassified W-2 employee. <br>
+
+I say this to the benefit of anyone who may have experienced a similar situation.
 
 In any case, if they breached my contract, then I retain all IP developed while working for NextNet Media. If I was a misclassified W-2 employee, than NextNet Media owes back payroll taxes, employer FICA contributions, potential overtime compensation, and is subject to IRS and Department of Labor penalties for systemic worker misclassification.
 
