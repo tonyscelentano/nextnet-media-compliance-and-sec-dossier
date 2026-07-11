@@ -63,6 +63,8 @@ The prior agency I worked for, LinkBuilder.io, had a large roster of blue-chip (
 
 At the moment of acquisition, NextNet Media inherited those client relationships. Why does this matter? LinkBuilder.io did not just deal in PBN link exchanges - they explicitly engineer high-value digital acquisition pipelines, as outlined in this [case study](https://linkbuilder.io/case-studies/fintech-service/), which specifically involved SoFi Technologies. For clients like SoFi, LinkBuilder.io engaged in highly regulated "Your Money or Your Life" (YMYL) financial marketing, generating millions in lead-acquisition value.
 
+This was owing to the honest work of LinkBuilder.io's previous owner, who had a strong ethical commitment to legitimate B2B practices. Unfortunately, when he sold LinkBuilder.io to NextNet Media, private equity interests took over.
+
 When NextNet inherited these blue-chip clients, they also put publicly traded companies at severe risk for data exposure. NextNet didn't just fail to secure their own internal API keys; they left the digital acquisition history of NASDAQ-listed companies exposed to the open internet via privaty equity roll-up and unmitigated technical debt. This may expose NextNet Media to liabilities under under the Supreme Court precedent set by Lawson v. FMR LLC.
 
 ## Document Exhibit: State of Florida Division of Corporations (Sunbiz) official registry for NextNet Media, LLC, renewed in 2026.
@@ -70,11 +72,13 @@ When NextNet inherited these blue-chip clients, they also put publicly traded co
 
 Two members of Clearview Capital, a private equity firm in Stamford, CT, are registered as MANA partners on the NextNet LLC.
 
-This potentially extends liability for NextNet's technical negligence and questionable tax filing practices to the fund itself — a fund [valued at $550M](https://pitchbook.com/profiles/fund/16376-50F). Abacus Finance Group [served as Senior Secured Credit Facilities Administrative Agent and Lead Arranger](https://abacusfinance.com/news/abacus-finance-provides-senior-debt-financing-to-support-the-recapitalization-of-next-net-media-llc-a-clearview-capital-portfolio-company/) for the recapitalization and made an equity co-investment in the same transaction.
+This potentially extends liability for NextNet's technical negligence and questionable tax filing practices to the managers of the fund - a fund [valued at $550M](https://pitchbook.com/profiles/fund/16376-50F). Abacus Finance Group [served as Senior Secured Credit Facilities Administrative Agent and Lead Arranger](https://abacusfinance.com/news/abacus-finance-provides-senior-debt-financing-to-support-the-recapitalization-of-next-net-media-llc-a-clearview-capital-portfolio-company/) for the recapitalization and made an equity co-investment in the same transaction.
+
+To put it plainly, NextNet Media's technical negligence has exposed their own private equity partners to the same federal scrutiny, as liability travels up the chain.
 
 <img width="983" height="573" alt="Abacus Finance Group press release on NextNet Media funding." src="https://github.com/user-attachments/assets/25b72198-7b2c-418b-adc5-489abaa5fa50" />
 
-Representatives from both entities (Abacus Finance Group, Clearview Capital) were provided with constructive knowledge and documentation, including the settlement offer that violates SEC Rule 21F-17(a). If NextNet or its sponsors delete or fail to preserve anything after receiving those emails, that's an independent basis for an adverse inference instruction at trial or sanctions.
+Representatives from both entities (Abacus Finance Group, Clearview Capital) were provided with constructive knowledge and documentation, including the settlement offer that violates SEC Rule 21F-17(a). If NextNet Media or its sponsors delete or fail to preserve anything after receiving those emails, that's an independent basis for an adverse inference instruction at trial or sanctions.
 
 
 ## Document Exhibit: Redacted API keys for fintech and cloud infrastructure platforms hardcoded into Git repos.
@@ -99,6 +103,9 @@ A: NextNet Media is a B2B marketing entity that processes large transactions vol
 
 #### Q: Aren't you disclosing those API keys to Google / Gemini by doing this?
 A: Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. Google Gemini parsed the DOMs of what was already on my screen. Imagine you're wearing an authorized body-cam and someone runs butt-naked past the viewfinder. You don't blame the person wearing the body-cam, you ask why corporate security let a butt-naked person into the building.
+
+#### Q: How do you still retain company documents after being terminated? Isn't that illegal or a form of CFAA?
+Unfortunately for NextNet, their security protocols for many files amount to "Anyone with Link" permissions. There are countless files and spreadsheets still shared with me or sitting under public access links, including entire databases of clients, B2B vendors, and operational expenses. There appears to be no offboarding policy in place, and I've never received any sort of demands for return of company property - though they'd really just need to toggle a permissions switch on their own end.
 
 #### Q: Isn't this defamation? You're naming real people and companies.
 A: Truth is an absolute defense to defamation in essentially every U.S. jurisdiction. You cannot defame someone with a screenshot of their own settlement offer. Every substantive claim in this dossier is backed by a document, a press release, or a public filing.
