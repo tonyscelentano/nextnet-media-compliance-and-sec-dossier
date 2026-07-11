@@ -19,10 +19,6 @@ NextNet Media may believe that because they operate in Florida, an at-will emplo
 **1)** Either I was a 1099 contractor and they breached my contract with illusory clauses, or; <br>
 **2)** I was a misclassified W-2 employee. <br>
 
-I say this to the benefit of anyone who may have experienced a similar situation.
-
-In any case, if they breached my contract, than I retain all personal IP developed while working for NextNet Media. If I was a misclassified W-2 employee, than NextNet Media owes back payroll taxes, employer FICA contributions, potential overtime compensation, and is subject to IRS and Department of Labor penalties for systemic worker misclassification.
-
 When I provided NextNet's legal counsel, **Koley Jessen**, with constructive knowledge - I was Mimecast blocked.
 
 I filed **SEC, FinCEN, and OSHA** whistleblower reports, and sent a physical letter to NextNet LLC's address. In return, I received a settlement offer - $3,214 if I dismissed my whistleblower complaints with those federal bodies, released only upon "written receipt of closure and dismissal of any and all Complaints".
