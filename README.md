@@ -120,3 +120,6 @@ A: Because both received direct, documented notice with attached evidence, and c
 
 #### Q: At any point did you threaten or extort NextNet Media with your information for financial gain?
 A: No. My settlement demand was strictly scoped to recovery of documented lost wages and fair value for the exclusive assignment of proprietary technical work product from my own repositories. These are both quantifiable, both independent of any regulatory activity. My whistleblower filings with the SEC, FinCEN, the Florida Attorney General, and other regulatory bodies were already in motion, and remain non-negotiable regardless of any commercial resolution. NextNet's own settlement offer, which conditioning payment on dismissal of federal complaints, is the only document in this dossier that actually ties money to regulatory silence, and it isn't mine.
+
+#### Q: Aren't you worried about becoming non-hirable in certain career sectors?
+A: At the end of the day, I just want to go raise some sheep.
