@@ -113,7 +113,7 @@ A: Unfortunately for NextNet Media, their security protocols for many files amou
 A: Truth is an absolute defense to defamation in essentially every U.S. jurisdiction. You cannot defame someone with a screenshot of their own settlement offer. Every substantive claim in this dossier is backed by a document, a press release, or a public filing.
 
 #### Q: Did you sign an NDA? Aren't you violating it by posting this?
-A: 21F-17(a) analysis has repeatedly held that gag/confidentiality provisions don't survive scrutiny when they function to suppress regulatory disclosure.
+A: 21F-17(a) analysis has repeatedly held that gag/confidentiality provisions don't survive scrutiny when they function to suppress regulatory disclosure. Furthermore, I've shared or exposed nothing that is proprietary information to the public - all sensitive information has been redacted, and everything else is publicly available information.
 
 #### Q: Why should Clearview Capital or Abacus Finance care about a contractor dispute at one portfolio company?
 A: Because both received direct, documented notice with attached evidence, and continued inaction after actual knowledge is its own legal exposure. This isn't a portfolio company's internal HR matter anymore; it's a question of what the fund and lender knew, and when.
