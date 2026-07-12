@@ -1,8 +1,8 @@
-# NextNet Media Security & Compliance Disclosure: SEC Rule 21F-17(a) Violations & SOC2 Failures
+# NextNet Media Security & Compliance Disclosure: SEC Rule 21F-17(a) Violations & PCI-DSS Failures
 
 Mirrored on: [GitLab](https://gitlab.com/tony.s.celentano/nextnet-media-compliance-dossier) | [Codeberg](https://codeberg.org/TonyCelentano_ComplianceOps/NextNet-Media-Compliance-Dossier) | [Medium](https://medium.com/@tony.s.celentano/a-massive-failure-in-soc2-pci-dss-ccpa-and-gdpr-compliance-controls-how-i-discovered-over-100-c2f51ce91a04) | [Substack](https://open.substack.com/pub/tonycelentano/p/nextnet-media-security-and-compliance?r=3y9ap5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-While working as an Engineer & Data Coordinator at [**NextNet Media**](https://nextnet.ai), I discovered over 100 plaintext API keys for payment gateways, cloud infrastructure, and SaaS platforms that could leak sensitive data of both clients and employees. This represents a complete and utter failure of **SOC2, GDPR, CCPA, and SOX** security controls. The full list includes: Tipalti, Stripe, PayPal, AWS, ECS, MongoDB, Xero, SendGrid, ZenRows, and more.
+While working as an Engineer & Data Coordinator at [**NextNet Media**](https://nextnet.ai), I discovered over 100 plaintext API keys for payment gateways, cloud infrastructure, and SaaS platforms that could leak sensitive data of both clients and employees. This represents a complete and utter failure of **PCI-DSS, GDPR, CCPA, and Vendor Terms of Service** security controls. The full list includes: Tipalti, Stripe, PayPal, AWS, ECS, MongoDB, Xero, SendGrid, ZenRows, and more.
 
 <img width="845" height="269" alt="Plaintext API key exposure in NextNet Media production environment including Tipalti, Stripe, and AWS" src="https://github.com/user-attachments/assets/62f5e400-04eb-402b-85c2-74344f53e659" />
 
@@ -99,9 +99,6 @@ Some of the commits were from older legacy repos, while others were committed on
 <img width="1834" height="582" alt="{NextNet Media SOC2 compliance violations}" src="https://github.com/user-attachments/assets/3e090576-2e11-4446-86da-530afafa4041" />
 
 ## Frequently Asked Questions (FAQ)
-
-#### Q: Is SOC2 a relevant compliance metric for NextNet Media?
-A: NextNet Media is a B2B marketing entity that processes large transactions volumes, including from blue-chip clients, via fintech gateways - the answer is a resounding **yes**. That's like looking at a hospital and asking if HIPAA is relevant.
 
 #### Q: Aren't you disclosing those API keys to Google / Gemini by doing this?
 A: Company policy allowed the usage of AI tools in a hybrid / remote environment, including for GitHub. Google Gemini parsed the DOMs of what was already on my screen. Imagine you're wearing an authorized body-cam and someone runs butt-naked past the viewfinder. You don't blame the person wearing the body-cam, you ask why corporate security let a butt-naked person into the building.
