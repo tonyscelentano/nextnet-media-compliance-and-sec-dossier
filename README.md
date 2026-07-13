@@ -35,7 +35,7 @@ Because the contractors are not C-Corp or S-Corp entities, and they performed re
 
 <img width="1926" height="2711" alt="Corrected zeroed-out IRS Form 1099-NEC issued by NextNet Media demonstrating tax reporting discrepancies and spoliation" src="https://github.com/user-attachments/assets/4fa625f5-970b-4bd9-8779-9d477fbdc63b" />
 
-Why am I going public with this information? Because NextNet recapitalized in 2021, and are looking for an **EBITDA exit** within the year. They would be passing the compliance bag to the next buyer.
+Why am I going public with this information? Because NextNet recapitalized in 2021, and are looking for an **EBITDA exit** within the year. They would be passing the compliance bag and pending federal investigations to the next buyer.
 
 I realize going public with this information carries significant professional risks, but I've been left with no ethical alternative. I operate in the interest of full transparent disclosure to affected parties.
 
