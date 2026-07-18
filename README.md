@@ -50,6 +50,16 @@ Next Net Media owns and operates the following brands in its portfolio:
 * CopyMatic.ai
 * SEOJet
 
+## Next Net Media's Recent Media Partnerships
+
+On July 14, 2026, Next Net Media and Sundial Media Group announced a partnership to develop a 'Standardized Agentic Intelligence Ledger' (SAIL), with paid press releases (via Globe Newswire) summarizing it as a "framework ... designed by AI licensing platform Next Net in partnership with Sundial Media & Technology Group, the publisher of Essence, Refinery29 and Afropunk, among others."
+
+<img width="851" height="436" alt="{Next Net Media, Sundial Media Group, SAIL press release}" src="https://github.com/user-attachments/assets/daf0cd15-ddda-42fe-ab58-eb373e05c81b" />
+
+Sundial Media Group is a culture-first media and technology company led by CEO Kirk McDonald. The ecosystem focuses on **empowering Black culture and women** through a portfolio of iconic brands like ESSENCE, Refinery29, AFROPUNK, and Beautycon.
+
+It is unclear whether Sundial Media Group conducted vendor due diligence on Next Net Media's regulatory compliance posture, active federal investigations, or internal security controls prior to announcing this partnership. This disclosure is provided in the interest of transparency to all current and prospective business partners of Next Net Media. However, given that Sundial Media Group is a proud representative of Black culture, one can only assume that they were not informed of these matters.
+
 ## Next Net Media's Blue-Chip Clients
 
 The prior agency I worked for, LinkBuilder.io, had a large roster of blue-chip (publicly traded) companies including:
