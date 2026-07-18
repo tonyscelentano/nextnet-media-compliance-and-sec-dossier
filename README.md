@@ -52,7 +52,7 @@ Next Net Media owns and operates the following brands in its portfolio:
 
 ## Next Net Media's Recent Media Partnerships
 
-On July 14, 2026, Next Net Media and Sundial Media Group announced a partnership to develop a 'Standardized Agentic Intelligence Ledger' (SAIL), with paid press releases (via Globe Newswire) summarizing it as a "framework ... designed by AI licensing platform Next Net in partnership with Sundial Media & Technology Group, the publisher of Essence, Refinery29 and Afropunk, among others."
+On July 14, 2026, Next Net Media and [Sundial Media Group](https://sundialmg.com/) announced a partnership to develop a 'Standardized Agentic Intelligence Ledger' (SAIL), with paid press releases (via Globe Newswire) summarizing it as a "framework ... designed by AI licensing platform Next Net in partnership with Sundial Media & Technology Group, the publisher of Essence, Refinery29 and Afropunk, among others."
 
 <img width="851" height="436" alt="{Next Net Media, Sundial Media Group, SAIL press release}" src="https://github.com/user-attachments/assets/daf0cd15-ddda-42fe-ab58-eb373e05c81b" />
 
